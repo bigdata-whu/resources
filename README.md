@@ -1,5 +1,11 @@
 # Big Data - Analytics and Processing
 
+<https://github.com/bigdata-whu/resources>
+
+<https://gitee.com/wuhanuniversity/bigData>
+
+********************
+
 [阅读中文版本](README_cn.md)
 
 Thank you for your selection to enroll my course!
@@ -14,9 +20,15 @@ harvest that data? How do you put it to work for your company so that you make
 better decisions? We are going to help executives figure out how to translate 
 data into competitive advantage.
 
+Data is everywhere and the implications are endless — it can help you determine 
+who to hire, what prices to set, what supply source to focus on, and where to 
+put your marketing dollars. Big Data, Strategic Decisions: Analysis to Action 
+gives you the frameworks and tools, innovations and insights to make better 
+decisions and compete in the age of big data.
+
 Through this course, we will learn about how to gain a fundamental understanding 
 of how to use data analytics to drive more creative and strategic decisions 
-across a data organization.
+across the entire data organization.
 
 #### Prerequisites:
 * 
@@ -24,7 +36,15 @@ across a data organization.
 Credits: 2.0
 
 #### Topics include:
-* 
+
+The curriculum focuses on five key areas to give you a more holistic, 
+innovative, and actionable learning experience:
+
+* Data-driven decision-making essentials from conceptual frameworks and tools to design thinking, Agile, and data visualization
+* Experiential, team-based data simulation projects, working with a Stanford data scientist to put learning into action
+* Practical applications of data analytics like marketing, business models, or HR to help you see connections to your own organization
+* Insights and implications into the latest developments and future of big data from machine learning to artificial intelligence
+* Understanding of the risks, limitations, and ethics of using big data
 
 #### Instructor: 
 Professor Jicheng Hu
