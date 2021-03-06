@@ -41,9 +41,11 @@ The curriculum focuses on five key areas to give you a more holistic,
 innovative, and actionable learning experience:
 
 * Data-driven decision-making essentials from conceptual frameworks and tools to design thinking, Agile, and data visualization
-* Experiential, team-based data simulation projects, working with a Stanford data scientist to put learning into action
-* Practical applications of data analytics like marketing, business models, or HR to help you see connections to your own organization
-* Insights and implications into the latest developments and future of big data from machine learning to artificial intelligence
+* Experiential, team-based data simulation projects, put learning into action
+* Practical applications of data analytics like marketing, business models, 
+or HR to see connections to the organization
+* Insights and implications into the latest achievement and future developments 
+of big data from machine learning to artificial intelligence
 * Understanding of the risks, limitations, and ethics of using big data
 
 #### Instructor: 
