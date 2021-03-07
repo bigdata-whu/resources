@@ -46,6 +46,20 @@
 
 ### 1.1 教学指导幻灯片:
 
+[0 课程介绍](slides/instruction/Chapter0.pptx)
+
+[1 大数据概述](slides/instruction/Chapter1.pptx)
+
+[2 大数据处理架构 Hadoop](slides/instruction/Chapter2.pptx)
+
+### 1.2 图书出版商提供的幻灯片：
+
+[0 课程介绍](slides/publisher/Chapter0.ppt)
+
+[1 大数据概述](slides/publisher/Chapter1.ppt)
+
+[2 大数据处理架构 Hadoop](slides/publisher/Chapter2.ppt)
+
 
 ## Academic Integrity
 

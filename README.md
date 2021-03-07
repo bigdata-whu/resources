@@ -55,7 +55,21 @@ Professor Jicheng Hu
 From this repository we release slides and corresponding resources for the course 
 "Big Data - Analytics and Processing", offered by CS of Wuhan University.
 
-### 1.1 instruction slides:
+### 1.1 Instructional slides:
+
+[0 Introduction to the curriculum](slides/instruction/Chapter0.pptx)
+
+[1 Overview of Big Data](slides/instruction/Chapter1.pptx)
+
+[2 Hadoop Architecture of Big Data Processing](slides/instruction/Chapter2.pptx)
+
+### 1.2 Slides from text publisher：
+
+[0 Introduction to the curriculum](slides/publisher/Chapter0.ppt)
+
+[1 Overview of Big Data](slides/publisher/Chapter1.ppt)
+
+[2 Hadoop Architecture of Big Data Processing](slides/publisher/Chapter2.ppt)
 
 
 ## Academic Integrity
